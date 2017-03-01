@@ -1,0 +1,3 @@
+This is a minimalist project to test a Spring Boot gemfire project.
+
+The project creates a regions on the server via spring annotations
